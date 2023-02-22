@@ -1,0 +1,12 @@
+.App {
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+  background-color: #18728d;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(12px + 2vmin);
+  color: rgb(59, 4, 70);
+}
